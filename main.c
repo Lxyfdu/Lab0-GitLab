@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("To C or not to C, that is the question.\n");
+    printf("Time Limit Exceeded.\n");
     printf("Hello, world!\n");
 }
